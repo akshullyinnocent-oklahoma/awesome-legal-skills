@@ -14,7 +14,7 @@
       "author": {
         "name": "Jamie Tso"
       },
-      "license": "Apache-2.0",
+      "license": "AGPL-3.0",
       "source": "./🌐/nda-review-jamie-tso"
     },
     {
@@ -24,7 +24,7 @@
       "author": {
         "name": "Patrick Munro"
       },
-      "license": "Apache-2.0",
+      "license": "AGPL-3.0",
       "source": "./🌐/legal-simulation-patrick-munro"
     },
     {
@@ -34,7 +34,7 @@
       "author": {
         "name": "Patrick Munro"
       },
-      "license": "Apache-2.0",
+      "license": "AGPL-3.0",
       "source": "./🌐/tech-contract-negotiation-patrick-munro"
     },
     {
@@ -44,7 +44,7 @@
       "author": {
         "name": "Patrick Munro"
       },
-      "license": "Apache-2.0",
+      "license": "AGPL-3.0",
       "source": "./🌐/vendor-due-diligence-patrick-munro"
     },
     {
@@ -54,7 +54,7 @@
       "author": {
         "name": "Rafał Stanisław Fryc"
       },
-      "license": "Apache-2.0",
+      "license": "AGPL-3.0",
       "source": "./🇺🇸/statute-analysis-rafal-fryc"
     },
     {
@@ -64,7 +64,7 @@
       "author": {
         "name": "Malik Taiar"
       },
-      "license": "Apache-2.0",
+      "license": "AGPL-3.0",
       "source": "./🇫🇷/politique-confidentialite-malik-taiar"
     },
     {
@@ -74,7 +74,7 @@
       "author": {
         "name": "Malik Taiar"
       },
-      "license": "Apache-2.0",
+      "license": "AGPL-3.0",
       "source": "./🇫🇷/politique-cookies-malik-taiar"
     },
     {
@@ -84,7 +84,7 @@
       "author": {
         "name": "Malik Taiar"
       },
-      "license": "Apache-2.0",
+      "license": "AGPL-3.0",
       "source": "./🇫🇷/politique-lanceur-alerte-malik-taiar"
     },
     {
@@ -94,7 +94,7 @@
       "author": {
         "name": "Sélim Brihi"
       },
-      "license": "Apache-2.0",
+      "license": "AGPL-3.0",
       "source": "./🇫🇷/notification-licenciement-selim-brihi"
     },
     {
@@ -104,7 +104,7 @@
       "author": {
         "name": "Sélim Brihi"
       },
-      "license": "Apache-2.0",
+      "license": "AGPL-3.0",
       "source": "./🇫🇷/requete-cph-licenciement-faute-grave-selim-brihi"
     },
     {
@@ -114,7 +114,7 @@
       "author": {
         "name": "Sélim Brihi"
       },
-      "license": "Apache-2.0",
+      "license": "AGPL-3.0",
       "source": "./🇫🇷/assignation-refere-recouvrement-creance-selim-brihi"
     },
     {
@@ -124,7 +124,7 @@
       "author": {
         "name": "Sélim Brihi"
       },
-      "license": "Apache-2.0",
+      "license": "AGPL-3.0",
       "source": "./🇫🇷/assignation-refere-communication-associe-selim-brihi"
     },
     {
@@ -207,7 +207,7 @@
       "author": {
         "name": "Antoine Louis"
       },
-      "license": "Apache-2.0",
+      "license": "AGPL-3.0",
       "source": "./🛠️/tabular-review-antoine-louis"
     },
     {
@@ -226,7 +226,7 @@
       "author": {
         "name": "OpenAI"
       },
-      "license": "Apache-2.0",
+      "license": "AGPL-3.0",
       "source": "./🛠️/skill-creator-openai"
     },
     {
@@ -236,7 +236,7 @@
       "author": {
         "name": "Malik Taiar"
       },
-      "license": "Apache-2.0",
+      "license": "AGPL-3.0",
       "source": "./🛠️/skill-optimizer-malik-taiar"
     }
   ]

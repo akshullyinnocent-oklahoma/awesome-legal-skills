@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Skills-24%20Available-4F46E5?style=flat-square" alt="Skills Available" />
   </a>
   <a href="https://github.com/lawvable/awesome-legal-skills/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square" alt="License" />
+    <img src="https://img.shields.io/badge/License-AGPL_3.0-blue.svg?style=flat-square" alt="License" />
   </a>
   <a href="https://makeapullrequest.com">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" />
@@ -75,15 +75,12 @@ This design allows multiple skills to remain available without consuming your ag
 
 ## Browse Skills
 
-| Folder | Description | Skills |
-|--------|-------------|--------|
-| [🇫🇷 France](./🇫🇷/) | Droit du travail, droit commercial, RGPD | 7 |
-| [🇺🇸 United States](./🇺🇸/) | Statutory interpretation | 1 |
-| [🌐 International](./🌐/) | Contract review, due diligence, negotiation | 4 |
-| [🛠️ Utilities](./🛠️/) | Document processing, skill authoring | 12 |
-| [🇪🇺 European Union](./🇪🇺/) | *Looking for contributors* | 0 |
-| [🇬🇧 United Kingdom](./🇬🇧/) | *Looking for contributors* | 0 |
-| [🇩🇪 Germany](./🇩🇪/) | *Looking for contributors* | 0 |
+| Folder | Skills |
+|--------|--------|
+| [🇫🇷 France](./🇫🇷/) | 7 |
+| [🇺🇸 United States](./🇺🇸/) | 1 |
+| [🌐 International](./🌐/) | 4 |
+| [🛠️ Utilities](./🛠️/) | 12 |
 
 ## Getting Started
 
@@ -104,7 +101,7 @@ We welcome contributions. See [CONTRIBUTING.md](./CONTRIBUTING.md) for guideline
 
 ## License
 
-This repository is licensed under the [Apache License 2.0](./LICENSE). Individual skills may have specific licensing terms (check each skill's folder for details).
+This repository is licensed under the [AGPL-3.0 License](./LICENSE). Individual skills may have specific licensing terms (check each skill's folder for details).
 
 ## Acknowledgments
 
