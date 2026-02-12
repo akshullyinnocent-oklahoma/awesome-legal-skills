@@ -21,7 +21,7 @@ Agent Skills are portable instructions that teach AI agents how to perform speci
 ## Get Started
 
 > [!IMPORTANT]
-> **Write once, use everywhere** — Skills are an emerging standard for AI agents, with adoption growing across the industry. Use them with your favorite tool.
+> **Write once, use everywhere** — Skills are an open standard for AI agents, with adoption growing across the industry. Use them with your favorite AI tool.
 
 <div align="center">
   <br>
