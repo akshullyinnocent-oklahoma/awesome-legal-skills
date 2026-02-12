@@ -106,14 +106,10 @@ Agent Skills are portable instructions that teach AI agents how to perform speci
 </table>
 </div>
 
-<div align="center"><img src="assets/entry-separator-light-animated.svg" alt=""></div>
+<div align="center"><img src="assets/entry-separator-light-animated.svg" alt="---"></div>
 
 <br>
-<div align="center">
-  <picture>
-    <img src="assets/header-domain-skills.svg" alt="DOMAIN SKILLS">
-  </picture>
-</div>
+<div align="center"><img src="assets/header-domain-skills.svg" alt="DOMAIN SKILLS" height="60"></div>
 <br>
 
 ### Commercial Law
@@ -133,7 +129,7 @@ _Review contracts against your organization's negotiation playbook, flagging dev
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/nda-triage-anthropic"><img src="assets/badge-nda-triage-anthropic.svg" alt="NDA Triage by Anthropic"></a>  
 _Screen incoming NDAs and classify them as GREEN (standard), YELLOW (needs review), or RED (significant issues). Use when a new NDA comes in from sales or business development, when assessing NDA risk level, or when deciding whether an NDA needs full counsel review._
 
-<div align="center"><img src="assets/entry-separator-light-animated.svg" alt=""></div>
+<div align="center"><img src="assets/entry-separator-light-animated.svg" alt="---"></div>
 
 ### Privacy Law
 
@@ -152,7 +148,7 @@ _Guide for drafting cookie policies compliant with GDPR and the ePrivacy Directi
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/politique-confidentialite-malik-taiar"><img src="assets/badge-politique-confidentialite-malik-taiar.svg" alt="Privacy Policy by Malik Taiar"></a>  
 _Guide for drafting privacy policies compliant with GDPR. Includes CNIL 2020 recommendations, a reference template, and best practices._
 
-<div align="center"><img src="assets/entry-separator-light-animated.svg" alt=""></div>
+<div align="center"><img src="assets/entry-separator-light-animated.svg" alt="---"></div>
 
 ### Compliance
 
@@ -165,7 +161,7 @@ _Guide for auditing an existing whistleblower system or drafting a compliant rep
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/compliance-anthropic"><img src="assets/badge-compliance-anthropic.svg" alt="Compliance by Anthropic"></a>  
 _Navigate privacy regulations (GDPR, CCPA), review DPAs, and handle data subject requests. Use when reviewing data processing agreements, responding to data subject access or deletion requests, or evaluating privacy compliance._
 
-<div align="center"><img src="assets/entry-separator-light-animated.svg" alt=""></div>
+<div align="center"><img src="assets/entry-separator-light-animated.svg" alt="---"></div>
 
 ### Employment Law
 
@@ -175,14 +171,14 @@ _Guide for drafting dismissal notifications compliant with French labor law. Cov
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/requete-cph-licenciement-faute-grave-selim-brihi"><img src="assets/badge-requete-cph-licenciement-faute-grave-selim-brihi.svg" alt="Unfair Dismissal Claim (Gross Misconduct) by Sélim Brihi"></a>  
 _Guide for drafting petitions to the French Labor Court (Conseil de prud'hommes) to contest a dismissal for gross misconduct and request reclassification as unfair dismissal._
 
-<div align="center"><img src="assets/entry-separator-light-animated.svg" alt=""></div>
+<div align="center"><img src="assets/entry-separator-light-animated.svg" alt="---"></div>
 
 ### Corporate Law
 
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/assignation-refere-communication-associe-selim-brihi"><img src="assets/badge-assignation-refere-communication-associe-selim-brihi.svg" alt="Court Order (Shareholder Access to Records) by Sélim Brihi"></a>  
 _Guide for drafting emergency court filings (assignation en référé) to force disclosure of corporate documents to a shareholder under Article L. 238-1 of the French Commercial Code._
 
-<div align="center"><img src="assets/entry-separator-light-animated.svg" alt=""></div>
+<div align="center"><img src="assets/entry-separator-light-animated.svg" alt="---"></div>
 
 ### Legal Methodology
 
@@ -202,11 +198,7 @@ _Assess and classify legal risks using a severity-by-likelihood framework with e
 _Prepare structured briefings for meetings with legal relevance and track resulting action items. Use when preparing for contract negotiations, board meetings, or compliance reviews._
 
 <br>
-<div align="center">
-  <picture>
-    <img src="assets/header-utility-skills.svg" alt="UTILITY SKILLS">
-  </picture>
-</div>
+<div align="center"><img src="assets/header-utility-skills.svg" alt="UTILITY SKILLS" height="60"></div>
 <br>
 
 ### Tooling
@@ -217,7 +209,7 @@ _Analyze multiple documents (PDF, DOCX) against user-defined columns and produce
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/vscode-extension-builder-lawvable"><img src="assets/badge-vscode-extension-builder-lawvable.svg" alt="VS Code Extension by Lawvable"></a>  
 _Build VS Code extensions from scratch or convert existing JS/React/Vue apps. Supports commands, webviews, custom editors, tree views, and AI agent integration._
 
-<div align="center"><img src="assets/entry-separator-light-animated.svg" alt=""></div>
+<div align="center"><img src="assets/entry-separator-light-animated.svg" alt="---"></div>
 
 ### Microsoft Office
 
@@ -248,7 +240,7 @@ _Comprehensive spreadsheet reading, creation, editing, and analysis with visual 
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/xlsx-processing-manus"><img src="assets/badge-xlsx-processing-manus.svg" alt="Excel by Manus"></a>  
 _Professional Excel spreadsheet creation with a focus on aesthetics and data analysis._
 
-<div align="center"><img src="assets/entry-separator-light-animated.svg" alt=""></div>
+<div align="center"><img src="assets/entry-separator-light-animated.svg" alt="---"></div>
 
 ### Adobe Acrobat
 
@@ -259,11 +251,7 @@ _Comprehensive PDF manipulation, including extracting text and tables, creating 
 _Comprehensive PDF reading and creation with visual quality control._
 
 <br>
-<div align="center">
-  <picture>
-    <img src="assets/header-meta-skills.svg" alt="META-SKILLS">
-  </picture>
-</div>
+<div align="center"><img src="assets/header-meta-skills.svg" alt="META-SKILLS" height="60"></div>
 <br>
 
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/skill-optimizer-lawvable"><img src="assets/badge-skill-optimizer-lawvable.svg" alt="Self-Improvement by Lawvable"></a>  
@@ -279,9 +267,7 @@ _Guide for creating effective skills that extend the model's capabilities with s
 
 It's easy! Just click the link below and fill out the form. No Git knowledge required.
 
-<a href="https://github.com/lawvable/awesome-legal-skills/issues/new?template=submit-skill.yml">
-  <h3 align="center">🚀 Submit a new Skill here!</h1>
-</a>
+<h3 align="center">🚀 <a href="https://github.com/lawvable/awesome-legal-skills/issues/new?template=submit-skill.yml">Submit a new Skill here!</a></h3>
 
 **How we evaluate submissions:** Every resource goes through a manual review before it makes it onto this list. First and foremost, best efforts are made to check for security concerns - no malware, bloatware, or other unwanted risks. Then, we assess whether the skill actually delivers real, practical value to users before it gets listed. See [CONTRIBUTING.md](/CONTRIBUTING.md) for more details.
 
