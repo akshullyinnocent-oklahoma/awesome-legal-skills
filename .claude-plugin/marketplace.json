@@ -390,6 +390,36 @@
       },
       "license": "AGPL-3.0",
       "source": "./skills/red-team-verifier-patrick-munro"
+    },
+    {
+      "name": "legal-risk-assessment-zacharie-laik",
+      "description": "Legal research and risk evaluation on French and EU law using GoodLegal's tools with adversarial jurisprudence search",
+      "version": "2026.02.25",
+      "author": {
+        "name": "Zacharie Laïk"
+      },
+      "license": "AGPL-3.0",
+      "source": "./skills/legal-risk-assessment-zacharie-laik"
+    },
+    {
+      "name": "mediation-dispute-analysis-jinzhe-tan",
+      "description": "Analyze case materials for mediation preparation with BATNA/WATNA analysis and settlement pathways",
+      "version": "2026.02.27",
+      "author": {
+        "name": "Jinzhe Tan"
+      },
+      "license": "AGPL-3.0",
+      "source": "./skills/mediation-dispute-analysis-jinzhe-tan"
+    },
+    {
+      "name": "nil-contract-analysis-samir-patel",
+      "description": "NIL contract analysis for NCAA student-athletes with red flag detection and compliance review",
+      "version": "2026.03.02",
+      "author": {
+        "name": "Samir Patel"
+      },
+      "license": "AGPL-3.0",
+      "source": "./skills/nil-contract-analysis-samir-patel"
     }
   ]
 }

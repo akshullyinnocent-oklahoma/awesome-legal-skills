@@ -39,7 +39,13 @@ REQUEST_TIMEOUT = 30
 
 
 def get_access_token():
-    """Get access token via interactive login. No token caching, no data retention."""
+    """Get access token. Checks OUTLOOK_ACCESS_TOKEN env var first, falls back to interactive login."""
+    # Pre-authenticated token (e.g. from sandbox or CI)
+    env_token = os.getenv("OUTLOOK_ACCESS_TOKEN")
+    if env_token:
+        print("Using pre-authenticated token from OUTLOOK_ACCESS_TOKEN.\n")
+        return env_token
+
     if not CLIENT_ID:
         print("ERROR: No Azure Client ID configured.", file=sys.stderr)
         sys.exit(1)

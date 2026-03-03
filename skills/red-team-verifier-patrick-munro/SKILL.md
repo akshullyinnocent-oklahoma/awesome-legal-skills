@@ -324,21 +324,6 @@ When performing verification, adopt an adversarial stance:
 - Multiple critical issues
 - Requires complete rework
 
-## Integration with Other Skills
-
-### Works Well With
-- **legal-document-production**: Verify documents before finalization
-- **legal-snapshot-creator**: Quality control on snapshots before distribution
-- **legal-presentation-creator**: Fact-check presentations before delivery
-- **eu-regulations-researcher**: Use as verification source for regulatory content
-- **contract-negotiation-playbook**: Verify legal positions and authorities cited
-
-### Workflow Integration
-1. Create legal content using other skills
-2. Apply Legal Red Team Verifier for adversarial review
-3. Correct identified issues
-4. Final distribution
-
 ## Customization by Jurisdiction
 
 ### EU/German Law Focus
