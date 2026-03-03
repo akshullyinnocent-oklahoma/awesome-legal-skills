@@ -111,10 +111,10 @@ _Guide for drafting emergency court filings (assignation en référé) before th
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/nda-review-jamie-tso"><img src="assets/badge-nda-review-jamie-tso.svg" alt="NDA Review by Jamie Tso"></a>  
 _Guide to review incoming one-way (unilateral) commercial NDAs in a jurisdiction-agnostic way, from either a Recipient or Discloser perspective (user-selected), producing a clause-by-clause issue log with preferred redlines, fallbacks, rationales, owners, and deadlines._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/nda-triage-anthropic"><img src="assets/badge-nda-triage-anthropic.svg" alt="NDA Triage by Anthropic"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/nda-triage-anthropic"><img src="assets/badge-nda-triage-anthropic.svg" alt="NDA Triage by Anthropic"></a>  
 _Screen incoming NDAs and classify them as GREEN (standard), YELLOW (needs review), or RED (significant issues). Use when a new NDA comes in from sales or business development, when assessing NDA risk level, or when deciding whether an NDA needs full counsel review._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/nil-contract-analysis-samir-patel"><img src="assets/badge-nil-contract-analysis-samir-patel.svg" alt="NIL Contract Review by Samir Patel"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/nil-contract-analysis-samir-patel"><img src="assets/badge-nil-contract-analysis-samir-patel.svg" alt="NIL Contract Review by Samir Patel"></a>  
 _NIL (Name, Image, and Likeness) contract analysis for NCAA student-athletes. Reviews endorsement deals, social media agreements, merchandise arrangements, and collective deals from the athlete's perspective, flagging red flags and compliance issues with structured negotiation positions._
 
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/tech-contract-negotiation-patrick-munro"><img src="assets/badge-tech-contract-negotiation-patrick-munro.svg" alt="Tech Contract Negotiation by Patrick Munro"></a>  
@@ -133,23 +133,23 @@ _GDPR Data Protection Impact Assessment (DPIA) guidance under Article 35 GDPR, E
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/gdpr-breach-sentinel-oliver-schmidt-prietz"><img src="assets/badge-gdpr-breach-sentinel-oliver-schmidt-prietz.svg" alt="GDPR Breach by Oliver Schmidt-Prietz"></a>  
 _Incident response and legal compliance guidance for data breaches under GDPR Articles 33 & 34. Covers breach risk assessment using ENISA severity methodology, Controller vs Processor obligations, 72-hour notification clock management, EDPB case matching, and cross-border Lead SA determination._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/compliance-anthropic"><img src="assets/badge-compliance-anthropic.svg" alt="Privacy Compliance by Anthropic"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/compliance-anthropic"><img src="assets/badge-compliance-anthropic.svg" alt="Privacy Compliance by Anthropic"></a>  
 _Navigate privacy regulations (GDPR, CCPA), review DPAs, and handle data subject requests. Use when reviewing data processing agreements, responding to data subject access or deletion requests, or evaluating privacy compliance._
 
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/gdpr-privacy-notice-eu-oliver-schmidt-prietz"><img src="assets/badge-gdpr-privacy-notice-eu-oliver-schmidt-prietz.svg" alt="Privacy Notice by Oliver Schmidt-Prietz"></a>  
 _Draft GDPR-compliant privacy notices as .docx for any EU/EEA jurisdiction and audience. Supports five notice types (Website/App, Applicant, Employee, Business Partner, B2C Customer) across DE, FR, AT, IT, ES, NL, BE, IE, and UK GDPR._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/politique-confidentialite-malik-taiar"><img src="assets/badge-politique-confidentialite-malik-taiar.svg" alt="Privacy Policy by Malik Taiar"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/politique-confidentialite-malik-taiar"><img src="assets/badge-politique-confidentialite-malik-taiar.svg" alt="Privacy Policy by Malik Taiar"></a>  
 _Guide for drafting privacy policies compliant with GDPR. Includes CNIL 2020 recommendations, a reference template, and best practices._
 
 <div align="center"><img src="assets/entry-separator-light-animated.svg" alt="---"></div>
 
 ### Compliance
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/vendor-due-diligence-patrick-munro"><img src="assets/badge-vendor-due-diligence-patrick-munro.svg" alt="Vendor Due Diligence by Patrick Munro"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/vendor-due-diligence-patrick-munro"><img src="assets/badge-vendor-due-diligence-patrick-munro.svg" alt="Vendor Due Diligence by Patrick Munro"></a>  
 _Framework for assessing IT service providers, technology vendors, and third-party partners. Creates structured risk assessments across financial, operational, compliance, security, and reputational dimensions with regulatory checklists (GDPR, DORA, NIS2, SOX)._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/politique-lanceur-alerte-malik-taiar"><img src="assets/badge-politique-lanceur-alerte-malik-taiar.svg" alt="Whistleblower Policy by Malik Taiar"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/politique-lanceur-alerte-malik-taiar"><img src="assets/badge-politique-lanceur-alerte-malik-taiar.svg" alt="Whistleblower Policy by Malik Taiar"></a>  
 _Guide for auditing an existing whistleblower system or drafting a compliant reporting policy. Covers EU Directive 2019/1937, the amended Sapin II law (Waserman 2022), Decree 2022-1284, CNIL guidelines, and duty of vigilance._
 
 <div align="center"><img src="assets/entry-separator-light-animated.svg" alt="---"></div>
@@ -173,19 +173,19 @@ _Guide for drafting emergency court filings (assignation en référé) to force 
 
 ### Legal Methodology
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/legal-simulation-patrick-munro"><img src="assets/badge-legal-simulation-patrick-munro.svg" alt="Legal Simulation by Patrick Munro"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/legal-simulation-patrick-munro"><img src="assets/badge-legal-simulation-patrick-munro.svg" alt="Legal Simulation by Patrick Munro"></a>  
 _Framework for demonstrating AI capabilities in legal contexts. Provides detailed personas across tenant law, business contracts, startup disputes, employment claims, and consumer protection with progressive complexity scenarios._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/mediation-dispute-analysis-jinzhe-tan"><img src="assets/badge-mediation-dispute-analysis-jinzhe-tan.svg" alt="Mediation Analysis by Jinzhe Tan"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/mediation-dispute-analysis-jinzhe-tan"><img src="assets/badge-mediation-dispute-analysis-jinzhe-tan.svg" alt="Mediation Analysis by Jinzhe Tan"></a>  
 _Analyze case materials for mediation preparation across civil and commercial disputes. Identifies core issues, party positions, underlying interests, BATNA/WATNA scenarios, and zones of possible agreement with multiple settlement pathways._
 
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/red-team-verifier-patrick-munro"><img src="assets/badge-red-team-verifier-patrick-munro.svg" alt="Red Team Verifier by Patrick Munro"></a>  
 _Adversarial verification for AI-generated legal content with systematic fact-checking, source validation, and quality control. Provides structured verification reports with severity-categorized errors and distribution readiness assessment._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/legal-risk-assessment-anthropic"><img src="assets/badge-legal-risk-assessment-anthropic.svg" alt="Risk Assessment by Anthropic"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/legal-risk-assessment-anthropic"><img src="assets/badge-legal-risk-assessment-anthropic.svg" alt="Risk Assessment by Anthropic"></a>  
 _Assess and classify legal risks using a severity-by-likelihood framework with escalation criteria. Use when evaluating contract risk, assessing deal exposure, or classifying issues by severity._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/legal-risk-assessment-zacharie-laik"><img src="assets/badge-legal-risk-assessment-zacharie-laik.svg" alt="Risk Assessment by Zacharie Laïk"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/legal-risk-assessment-zacharie-laik"><img src="assets/badge-legal-risk-assessment-zacharie-laik.svg" alt="Risk Assessment by Zacharie Laïk"></a>  
 _Legal research and risk evaluation for in-house teams using GoodLegal's tools. Conducts adversarial jurisprudence searches on French and EU law, identifies risk factors with inline citations, and performs temporal confidence checks on case law._
 
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/statute-analysis-rafal-fryc"><img src="assets/badge-statute-analysis-rafal-fryc.svg" alt="Statutory Interpretation by Rafał Stanisław Fryc"></a>  
@@ -196,13 +196,13 @@ _Guide for reading, interpreting, and applying statutes, regulations, and rules 
 
 ### Legal Tooling
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/canned-responses-anthropic"><img src="assets/badge-canned-responses-anthropic.svg" alt="Canned Responses by Anthropic"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/canned-responses-anthropic"><img src="assets/badge-canned-responses-anthropic.svg" alt="Canned Responses by Anthropic"></a>  
 _Generate templated responses for common legal inquiries and identify when situations require individualized attention. Covers data subject requests, vendor inquiries, NDA requests, and discovery holds._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/meeting-briefing-anthropic"><img src="assets/badge-meeting-briefing-anthropic.svg" alt="Meeting Briefing by Anthropic"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/meeting-briefing-anthropic"><img src="assets/badge-meeting-briefing-anthropic.svg" alt="Meeting Briefing by Anthropic"></a>  
 _Prepare structured briefings for meetings with legal relevance and track resulting action items. Use when preparing for contract negotiations, board meetings, or compliance reviews._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/tabular-review-lawvable"><img src="assets/badge-tabular-review-lawvable.svg" alt="Tabular Review by Lawvable"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/tabular-review-lawvable"><img src="assets/badge-tabular-review-lawvable.svg" alt="Tabular Review by Lawvable"></a>  
 _Analyze multiple documents (PDF, DOCX) against user-defined columns and produce a structured Excel output with citations. Compare clauses or provisions across contracts._
 
 <div align="center"><img src="assets/entry-separator-light-animated.svg" alt="---"></div>
@@ -263,13 +263,13 @@ _Build VS Code extensions from scratch or convert existing JS/React/Vue apps. Su
     
 ### Skill Authoring
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/skill-creator-anthropic"><img src="assets/badge-skill-creator-anthropic.svg" alt="Self-Creation by Anthropic"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/skill-creator-anthropic"><img src="assets/badge-skill-creator-anthropic.svg" alt="Self-Creation by Anthropic"></a>  
 _Guide for creating effective skills that extend the model's capabilities with specialized knowledge, workflows, or tool integrations._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/skill-creator-openai"><img src="assets/badge-skill-creator-openai.svg" alt="Self-Creation by OpenAI"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/skill-creator-openai"><img src="assets/badge-skill-creator-openai.svg" alt="Self-Creation by OpenAI"></a>  
 _Guide for creating effective skills that extend the model's capabilities with specialized knowledge, workflows, or tool integrations._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/skill-optimizer-lawvable"><img src="assets/badge-skill-optimizer-lawvable.svg" alt="Self-Improvement by Lawvable"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/skill-optimizer-lawvable"><img src="assets/badge-skill-optimizer-lawvable.svg" alt="Self-Improvement by Lawvable"></a>  
 _Analyze a current work session and propose improvements to skills. Captures learnings automatically after working with a skill._
 
 ## Contributing
