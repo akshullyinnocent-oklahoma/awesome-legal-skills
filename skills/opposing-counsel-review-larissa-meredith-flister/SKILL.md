@@ -1,5 +1,5 @@
 ---
-name: "Opposing Counsel Review"
+name: opposing-counsel-review
 description: >-
   Act as experienced opposing counsel to attack, undermine, and expose weaknesses in a legal argument, submission, witness statement, or structured reasoning.
   
